@@ -2,3 +2,6 @@
 .pad-10{
     padding: 10px;
 }
+agm-map {
+    height: 300px;
+  }
